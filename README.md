@@ -1,5 +1,7 @@
 # Cost-Minimisation-through-Reinforcement-Learning
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 This project was done as a part of the Topics in Reinforcement Learning course offered at IIIT-Hyderabad. The contributors to this project are Likhith Asapu, Aakash Terela, Sukhjinder Kumar, and Parshava Badra. 
 
 # Problem Statement
